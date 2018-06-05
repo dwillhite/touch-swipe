@@ -1,5 +1,16 @@
+@import "flickity";
 
 .swiper-container {
     width: 600px;
     height: 300px;
 }
+
+.carousel-cell {
+    width: 33%; /* half-width */
+    height: 160px;
+    margin-right: 10px;
+  }
+
+  .main-carousel {
+      max-width: 80%;
+  }
